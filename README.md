@@ -1,32 +1,100 @@
-# <a href="https://www.linkedin.com/in/ryan-murphylee">Ryan Murphy</a>'s IT and Cybersecurity Project Portfolio 🔐
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-murphylee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Ryan+Murphy;Cybersecurity+%7C+Vuln+Management+%7C+Threat+Hunting" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-murphylee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/murpheelee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
+---
 
-## ⚠️ Vulnerability Management Projects
+### About Me
 
-- **[Vulnerability Management Program Implementation](https://github.com/murpheelee/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/murpheelee/programmatic-vulnerability-remediations)**
+Cybersecurity professional focused on building secure systems through hands-on projects. My work spans vulnerability management, threat hunting, SIEM engineering, and compliance — turning security frameworks into actionable implementations.
 
-## 🚨 Threat Hunting and Security Operations
+- Building vulnerability management programs and automating remediations at scale
+- Deploying and configuring cloud-native SIEMs with custom detection rules
+- Conducting hypothesis-driven threat hunts using KQL and EDR telemetry
+- Mapping security controls to NIST 800-53 and DISA STIGs for compliance readiness
+- Developing incident response playbooks aligned with NIST and SANS frameworks
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/murpheelee/threat-hunting-scenario-tor)**
+---
 
-<hr/>
+### Tools & Technologies
 
-## 🤳 Connect With Me
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Sentinel"/>
+  <img src="https://img.shields.io/badge/Defender_for_Endpoint-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="Defender"/>
+  <img src="https://img.shields.io/badge/Tenable_Nessus-00C176?style=flat-square&logo=tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/KQL-742774?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL"/>
+  <img src="https://img.shields.io/badge/NIST_800--53-002868?style=flat-square" alt="NIST"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E4002B?style=flat-square" alt="MITRE"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Active_Directory-003B6F?style=flat-square&logo=windows&logoColor=white" alt="Active Directory"/>
+</p>
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[linkedin]: https://linkedin.com/in/ryan-murphylee
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+### Projects
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+#### Vulnerability Management
+
+| Project | Description |
+|---------|-------------|
+| [Vulnerability Management Program Implementation](https://github.com/murpheelee/vulnerability-management-program) | End-to-end vulnerability management lifecycle — policy creation, stakeholder buy-in, Nessus scanning, risk-based prioritization, and remediation achieving **80% vulnerability reduction** |
+| [Programmatic Vulnerability Remediations](https://github.com/murpheelee/programmatic-vulnerability-remediations) | Automated remediation scripts mapped to Tenable Plugin IDs and CVEs — SSL/TLS hardening, Telnet removal, and more |
+
+#### SIEM & Detection Engineering
+
+| Project | Description |
+|---------|-------------|
+| [Azure Sentinel SIEM Lab](https://github.com/murpheelee/azure-sentinel-siem-lab) | Cloud-native SIEM deployment with custom KQL analytics rules, SOAR playbooks, and MITRE ATT&CK-mapped detections |
+
+#### Threat Hunting & Security Operations
+
+| Project | Description |
+|---------|-------------|
+| [Threat Hunting Scenario — Tor Browser Usage](https://github.com/murpheelee/threat-hunting-scenario-tor) | Hypothesis-driven threat hunt detecting unauthorized Tor installation and usage via Defender for Endpoint and KQL |
+
+#### Governance, Risk & Compliance
+
+| Project | Description |
+|---------|-------------|
+| [NIST 800-53 Compliance Mapping](https://github.com/murpheelee/nist-800-53-compliance-mapping) | Security control assessment and gap analysis using NIST SP 800-53 Rev 5 with POA&M development and risk scoring |
+| [STIG Implementation and Remediation](https://github.com/murpheelee/stigs) | DISA STIG hardening for Windows systems — CAT I/II/III finding remediation and compliance documentation |
+
+#### Incident Response
+
+| Project | Description |
+|---------|-------------|
+| [Incident Response Playbook](https://github.com/murpheelee/incident-response-playbook) | Enterprise IR playbooks for malware, phishing, ransomware, brute force, insider threats — aligned with NIST 800-61 and SANS frameworks |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/murpheelee">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=murpheelee&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/murpheelee">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=murpheelee&theme=github-dark&hide_border=true&area=true&area_color=58A6FF" alt="Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murpheelee&style=flat-square&color=58A6FF" alt="Profile Views"/>
+</p>
