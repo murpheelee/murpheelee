@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryan-murphylee">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Ryan+Murphy;Cybersecurity+%7C+Vuln+Management+%7C+Threat+Hunting" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Ryan%20Murphy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Vulnerability%20Management%20%7C%20Threat%20Hunting&descSize=18&descAlignY=55&descColor=58A6FF" width="100%"/>
 </p>
 
 <p align="center">
@@ -20,6 +18,25 @@ Cybersecurity professional focused on building secure systems through hands-on p
 - Conducting hypothesis-driven threat hunts using KQL and EDR telemetry
 - Mapping security controls to NIST 800-53 and DISA STIGs for compliance readiness
 - Developing incident response playbooks aligned with NIST and SANS frameworks
+
+---
+
+### Security Domains
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vulnerability_Management-00C176?style=for-the-badge" alt="Vuln Mgmt"/>
+  <img src="https://img.shields.io/badge/SIEM_%26_Detection_Engineering-0078D4?style=for-the-badge" alt="SIEM"/>
+  <img src="https://img.shields.io/badge/Threat_Hunting-742774?style=for-the-badge" alt="Threat Hunting"/>
+  <img src="https://img.shields.io/badge/Incident_Response-FF6600?style=for-the-badge" alt="IR"/>
+  <img src="https://img.shields.io/badge/GRC_%26_Compliance-002868?style=for-the-badge" alt="GRC"/>
+  <img src="https://img.shields.io/badge/Cloud_Security-DC3545?style=for-the-badge" alt="Cloud Sec"/>
+  <img src="https://img.shields.io/badge/Network_Forensics-1679A7?style=for-the-badge" alt="Net Forensics"/>
+  <img src="https://img.shields.io/badge/Security_Automation-3776AB?style=for-the-badge" alt="Automation"/>
+</p>
+
+<p align="center">
+  <code>14 Projects</code> · <code>7 Security Domains</code> · <code>4 Languages</code> · <code>5 Frameworks</code>
+</p>
 
 ---
 
@@ -110,8 +127,10 @@ Cybersecurity professional focused on building secure systems through hands-on p
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=murpheelee&style=flat-square&color=58A6FF" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 </p>
