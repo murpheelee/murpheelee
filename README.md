@@ -34,6 +34,7 @@ Cybersecurity professional focused on building secure systems through hands-on p
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/KQL-742774?style=flat-square&logo=microsoftazure&logoColor=white" alt="KQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NIST_800--53-002868?style=flat-square" alt="NIST"/>
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E4002B?style=flat-square" alt="MITRE"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
@@ -76,6 +77,12 @@ Cybersecurity professional focused on building secure systems through hands-on p
 | Project | Description |
 |---------|-------------|
 | [Incident Response Playbook](https://github.com/murpheelee/incident-response-playbook) | Enterprise IR playbooks for malware, phishing, ransomware, brute force, insider threats — aligned with NIST 800-61 and SANS frameworks |
+
+#### Security Automation & Tooling
+
+| Project | Description |
+|---------|-------------|
+| [Nessus Report Parser](https://github.com/murpheelee/nessus-report-parser) | Python CLI tool for parsing Nessus CSV exports into prioritized remediation reports with risk scoring and executive summaries |
 
 ---
 
