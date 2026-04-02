@@ -58,18 +58,21 @@ Cybersecurity professional focused on building secure systems through hands-on p
 | Project | Description |
 |---------|-------------|
 | [Azure Sentinel SIEM Lab](https://github.com/murpheelee/azure-sentinel-siem-lab) | Cloud-native SIEM deployment with custom KQL analytics rules, SOAR playbooks, and MITRE ATT&CK-mapped detections |
+| [Active Directory Security Lab](https://github.com/murpheelee/ad-security-lab) | AD deployment, attack detection (Kerberoasting, DCSync, Golden Ticket), and enterprise hardening with KQL queries |
 
 #### Threat Hunting & Security Operations
 
 | Project | Description |
 |---------|-------------|
 | [Threat Hunting Scenario — Tor Browser Usage](https://github.com/murpheelee/threat-hunting-scenario-tor) | Hypothesis-driven threat hunt detecting unauthorized Tor installation and usage via Defender for Endpoint and KQL |
+| [Network Traffic Analysis Lab](https://github.com/murpheelee/network-traffic-analysis) | Packet capture analysis with Wireshark/tcpdump — C2 detection, DNS tunneling, ARP spoofing, and Suricata IDS signatures |
 
 #### Governance, Risk & Compliance
 
 | Project | Description |
 |---------|-------------|
 | [NIST 800-53 Compliance Mapping](https://github.com/murpheelee/nist-800-53-compliance-mapping) | Security control assessment and gap analysis using NIST SP 800-53 Rev 5 with POA&M development and risk scoring |
+| [Cloud Security Posture Assessment](https://github.com/murpheelee/cloud-security-posture-assessment) | Azure cloud security assessment against CIS Benchmarks v2.0 with prioritized remediation roadmap |
 | [STIG Implementation and Remediation](https://github.com/murpheelee/stigs) | DISA STIG hardening for Windows systems — CAT I/II/III finding remediation and compliance documentation |
 
 #### Incident Response
@@ -77,6 +80,13 @@ Cybersecurity professional focused on building secure systems through hands-on p
 | Project | Description |
 |---------|-------------|
 | [Incident Response Playbook](https://github.com/murpheelee/incident-response-playbook) | Enterprise IR playbooks for malware, phishing, ransomware, brute force, insider threats — aligned with NIST 800-61 and SANS frameworks |
+
+#### Security Leadership & Program Management
+
+| Project | Description |
+|---------|-------------|
+| [Security Awareness Training Program](https://github.com/murpheelee/security-awareness-program) | Enterprise awareness program with phishing simulations, role-based training, and metrics-driven reporting |
+| [Vulnerability Assessment Report Template](https://github.com/murpheelee/vulnerability-assessment-report) | Professional assessment report template with executive summaries, risk scoring, and remediation roadmaps |
 
 #### Security Automation & Tooling
 
