@@ -35,7 +35,7 @@ Cybersecurity professional focused on building secure systems through hands-on p
 </p>
 
 <p align="center">
-  <code>14 Projects</code> · <code>7 Security Domains</code> · <code>4 Languages</code> · <code>5 Frameworks</code>
+  <code>15 Projects</code> · <code>8 Security Domains</code> · <code>4 Languages</code> · <code>6 Frameworks</code>
 </p>
 
 ---
@@ -57,6 +57,9 @@ Cybersecurity professional focused on building secure systems through hands-on p
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Active_Directory-003B6F?style=flat-square&logo=windows&logoColor=white" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="QRadar"/>
+  <img src="https://img.shields.io/badge/Qualys-ED2024?style=flat-square" alt="Qualys"/>
 </p>
 
 ---
@@ -74,6 +77,7 @@ Cybersecurity professional focused on building secure systems through hands-on p
 
 | Project | Description |
 |---------|-------------|
+| [SOC Cloud Engineering](https://github.com/murpheelee/soc-cloud-engineering) | Splunk SPL detections, SOAR playbooks, Qualys VMDR integration, QRadar AQL, and multi-cloud (AWS/Azure) security monitoring |
 | [Azure Sentinel SIEM Lab](https://github.com/murpheelee/azure-sentinel-siem-lab) | Cloud-native SIEM deployment with custom KQL analytics rules, SOAR playbooks, and MITRE ATT&CK-mapped detections |
 | [Active Directory Security Lab](https://github.com/murpheelee/ad-security-lab) | AD deployment, attack detection (Kerberoasting, DCSync, Golden Ticket), and enterprise hardening with KQL queries |
 
