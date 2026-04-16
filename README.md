@@ -23,9 +23,10 @@ I build and operate security programs end-to-end — policy, tooling, detection,
 
 | Project | Outcome |
 |---------|---------|
-| [**Vulnerability Management Program**](https://github.com/murpheelee/vulnerability-management-program) | End-to-end VM lifecycle on Azure using Tenable Nessus &mdash; policy, scanning, risk-based prioritization, remediation. **80% vulnerability reduction over 3 cycles.** |
+| [**Vulnerability Management Program**](https://github.com/murpheelee/vulnerability-management-program) | End-to-end VM lifecycle on Azure using Tenable Nessus &mdash; policy, scanning, risk-based prioritization (EPSS + KEV + CTEM), remediation. **80% vulnerability reduction over 3 cycles.** |
 | [**Programmatic Remediations**](https://github.com/murpheelee/programmatic-vulnerability-remediations) | PowerShell + Bash remediation scripts mapped to Tenable Plugin IDs &mdash; SSL/TLS hardening, SMBv1 removal, Telnet removal, registry-based controls. |
-| [**Nessus Report Parser**](https://github.com/murpheelee/nessus-report-parser) | Python CLI that converts raw Nessus CSV exports into prioritized remediation reports with CVSS-weighted risk scoring and executive summaries. |
+| [**Nessus Report Parser**](https://github.com/murpheelee/nessus-report-parser) | Python CLI that enriches Nessus findings with **EPSS + CISA KEV** and assigns RBVM priority tiers (P0-P3). Risk-based prioritization that goes beyond CVSS. |
+| [**CVE Deep-Dives**](https://github.com/murpheelee/cve-deep-dives) | In-depth technical writeups for high-impact vulnerabilities &mdash; root cause, exploitation mechanics, detection queries (KQL + Sigma), hunting, and remediation. Covers Log4Shell, Citrix Bleed. |
 
 ### Detection Engineering & Threat Hunting
 
